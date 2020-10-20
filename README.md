@@ -1,2 +1,2 @@
 # Dice_Roller
-This site generates 2 random dice and determine a winner.
+This site generates 2 random dice and determines a winner.
